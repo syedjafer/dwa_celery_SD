@@ -1,0 +1,1 @@
+$ celery worker --app celery-task-queue --queues celery,low-p
